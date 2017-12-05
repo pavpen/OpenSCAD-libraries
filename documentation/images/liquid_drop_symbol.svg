@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="16" height="24" viewBox="-1 0 2 3" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<title>OpenSCAD Model</title>
+<path d="
+M 0.328857,2.94437 L 0.553391,2.83292 L 0.743134,2.66913 L 0.8862,2.46329 L 0.973572,2.22835 L 0.999771,1.97905
+ L 0.96315,1.73108 L 0.866013,1.5 L 0,-0 L -0.937271,1.65141 L -0.994507,1.89546 L -0.989258,2.14607
+ L -0.92186,2.38751 L -0.796524,2.6046 L -0.62114,2.78369 L -0.406723,2.91354 L -0.166763,2.98599 L 0.0836639,2.99649
+ z
+" stroke="rgba(1, 1, 1, 0.5)" fill="lightgray" stroke-width="0.5"/></svg>
