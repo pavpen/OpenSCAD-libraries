@@ -16,9 +16,28 @@ See `pro.pavpen/symbols` for more details.  The symbols include:
 * Machine Oiling: ![Machine Oiling Symbol](documentation/images/machine_oiling_symbol.svg)
 
 
+## Geometric Constructs
+
+* Cube with rounded corners: ![Cube with rounded corners demo](documentation/images/rounded_corner_cube-demo-01.png)
+
+
+## Models
+
+* Kraken extruder assembly (each component):
+![E3D Kraken assembly demo](documentation/images/kraken_assembly-demo-01.png)
+![E3D Kraken assembly demo](documentation/images/kraken_assembly-demo-02.png)
+* Extrudite radial cooling fan:
+![Radial cooling fan demo](documentation/images/radial_cooling_fan-demo-01.png)
+* Linear bearing:
+![RJ260 linear bearing demo](documentation/images/rj260_linear_bearing-demo-01.png)
+* Linear bearing bracket:
+![Linear bearing bracket demo](documentation/images/linear_bearing_bracket-demo-01.png)
+
+
 ## Basic List Functions
 
 * Sum all elements.
+* Element-by-element product of two lists.
 * Drop the last `n` elements.
 
 

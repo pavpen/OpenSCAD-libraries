@@ -15,6 +15,11 @@ function pro_pavpen_list_sum(list, start_index = 0) =
         list[start_index] + pro_pavpen_list_sum(list, start_index + 1) :
         0;
 
+function pro_pavpen_list_elementwise_product(a, b) =
+    [for (i = [0 : len(a) - 1])
+        a[i] * b[i]
+    ];
+
 // Returns a given list with the last `drop_elements_count` elements removed.
 function pro_pavpen_list_drop_last(list, drop_elements_count) =
     drop_elements_count >= len(list) ?
