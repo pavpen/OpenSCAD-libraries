@@ -26,6 +26,8 @@ See `pro.pavpen/symbols` for more details.  The symbols include:
 * Kraken extruder assembly (each component):
 ![E3D Kraken assembly demo](documentation/images/kraken_assembly-demo-01.png)
 ![E3D Kraken assembly demo](documentation/images/kraken_assembly-demo-02.png)
+* Chimera / Cyclops radiator:
+![Chimera / Cyclops radiator demo](documentation/images/chimera_cyclops_radiator-demo-01.png)
 * Extrudite radial cooling fan:
 ![Radial cooling fan demo](documentation/images/radial_cooling_fan-demo-01.png)
 * Linear bearing:
